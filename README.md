@@ -5,3 +5,5 @@ Image Enhancement and Resizing done with OpenCV.
 Color Curve Interaction, Event Handling, and Geometry management done with Tkinter.
 
 Load/Save button coming soon!
+
+[My image](JWongDude.github.com/Instagram-Lite/instagram-lite-image.PNG)
