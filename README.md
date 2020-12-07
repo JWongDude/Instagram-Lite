@@ -6,4 +6,4 @@ Color Curve Interaction, Event Handling, and Geometry management done with Tkint
 
 Load/Save button coming soon!
 
-[My image](JWongDude.github.com/Instagram-Lite/instagram-lite-image.PNG)
+![Feature Image](/instagram-lite-image.png)
