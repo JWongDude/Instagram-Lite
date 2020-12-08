@@ -4,6 +4,10 @@ Image-Editing GUI made with OpenCV, Numpy, and Modern Tkinter.
 Image Enhancement and Resizing performed with OpenCV.
 Color Curve Interaction, Event Handling, and Geometry Management implemented with Tkinter.
 
+![](instagram-lite-demo-2.gif)
+
+Compression introduces some rendering artifacts.
+
 Editing Features:
  - Color Correction
  - Brightness 
@@ -15,8 +19,10 @@ Application Features:
  - Save 
  - Reset
 
-![](instagram-lite-demo-2.gif)
-
+Sample Images:
+Parrot:
 ![](parrot-demo.PNG)
+Tree:
 ![](tree-demo.PNG)
+Bubble:
 ![](bubble-demo.PNG)
