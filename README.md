@@ -6,7 +6,7 @@ Color Curve Interaction, Event Handling, and Geometry Management implemented wit
 
 ![](instagram-lite-demo-2.gif)
 
-Compression introduces some rendering artifacts.
+Gif compression introduces some rendering artifacts.
 
 Editing Features:
  - Color Correction
