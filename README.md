@@ -13,3 +13,5 @@ Editing Features:
 Load/Save buttons coming soon!
 
 [GUI image](https://github.com/JWongDude/Instagram-Lite/blob/main/instagram-lite-photo.PNG)
+
+![](instagram-lite-photo.PNG)
