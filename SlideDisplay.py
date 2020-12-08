@@ -174,9 +174,9 @@ class SlideDisplay() :
 
         self.image_display.edited.update_photo()
 
-if __name__ == "__main__" :
-    top = Tk()
-    # image = ImageDisplay(top, "lena.bmp")
-    image = ImageDisplay(top, "baseball.JPG")
-    slide_display = SlideDisplay(top, image)
-    top.mainloop()
+# if __name__ == "__main__" :
+#     top = Tk()
+#     # image = ImageDisplay(top, "lena.bmp")
+#     image = ImageDisplay(top, "baseball.JPG")
+#     slide_display = SlideDisplay(top, image)
+#     top.mainloop()

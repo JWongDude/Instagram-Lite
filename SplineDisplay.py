@@ -354,10 +354,10 @@ class Spline() :
         bounding_box = (point.left, point.top, point.right, point.bottom)
         return self.canvas.create_oval(bounding_box, fill="{}".format("white"))
 
-if __name__ == "__main__" :    
-    top = Tk()
-    #image = ImageDisplay(top, "lena.bmp")
-    image = ImageDisplay(top, "baseball.JPG")
-    #image = ImageDisplay(top, "flowers.tif")
-    splines = SplineDisplay(top, image)
-    top.mainloop()
+# if __name__ == "__main__" :    
+#     top = Tk()
+#     #image = ImageDisplay(top, "lena.bmp")
+#     image = ImageDisplay(top, "baseball.JPG")
+#     #image = ImageDisplay(top, "flowers.tif")
+#     splines = SplineDisplay(top, image)
+#     top.mainloop()
