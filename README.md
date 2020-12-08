@@ -1,8 +1,8 @@
 # Instagram-Lite
 
-Image-Editing GUI made with OpenCV, Numpy, and Tkinter.
-Image Enhancement and Resizing done with OpenCV.
-Color Curve Interaction, Event Handling, and Geometry management done with Tkinter.
+Image-Editing GUI made with OpenCV, Numpy, and Modern Tkinter.
+Image Enhancement and Resizing performed with OpenCV.
+Color Curve Interaction, Event Handling, and Geometry Management implemented with Tkinter.
 
 Editing Features:
  - Color Correction
@@ -10,8 +10,13 @@ Editing Features:
  - Contrast 
  - Sharpness 
 
-Load/Save buttons coming soon!
+Application Features:
+ - Load
+ - Save 
+ - Reset
 
-[GUI image](https://github.com/JWongDude/Instagram-Lite/blob/main/instagram-lite-photo.PNG)
+![](instagram-lite-demo-2.gif)
 
-![](instagram-lite-demo.gif)
+![](parrot-demo.PNG)
+![](tree-demo.PNG)
+![](bubble-demo.PNG)
