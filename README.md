@@ -19,10 +19,11 @@ Application Features:
  - Save 
  - Reset
 
-Sample Images:
-Parrot:
+## Sample Images:
+
+### Parrot:
 ![](parrot-demo.PNG)
-Tree:
+### Tree:
 ![](tree-demo.PNG)
-Bubble:
+### Bubble:
 ![](bubble-demo.PNG)
